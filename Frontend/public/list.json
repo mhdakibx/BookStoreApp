@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "A thrilling mystery that will keep you guessing until the very end.",
+    "price": 0,
+    "category": "free",
+    "image": "https://images.pexels.com/photos/1666320/pexels-photo-1666320.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Story Book",
+    "title": "A thrilling mystery that will keep you guessing until the very end.",
+    "price": 0,
+    "category": "free",
+    "image": "https://images.pexels.com/photos/1666320/pexels-photo-1666320.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Story Book",
+    "title": "A thrilling mystery that will keep you guessing until the very end.",
+    "price": 0,
+    "category": "free",
+    "image": "https://images.pexels.com/photos/1666320/pexels-photo-1666320.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Science Book",
+    "title": "A thrilling mystery that will keep you guessing until the very end.",
+    "price": 0,
+    "category": "free",
+    "image": "https://images.pexels.com/photos/1666320/pexels-photo-1666320.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Mystery Book",
+    "title": "A thrilling mystery that will keep you guessing until the very end.",
+    "price": 0,
+    "category": "free",
+    "image": "https://images.pexels.com/photos/1666320/pexels-photo-1666320.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "History Book",
+    "title": "A thrilling mystery that will keep you guessing until the very end.",
+    "price": 0,
+    "category": "free",
+    "image": "https://images.pexels.com/photos/1666320/pexels-photo-1666320.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "CPI Book",
+    "title": "A thrilling mystery that will keep you guessing until the very end.",
+    "price": 0,
+    "category": "free",
+    "image": "https://images.pexels.com/photos/1666320/pexels-photo-1666320.jpeg"
+  }
+]
