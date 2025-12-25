@@ -40,7 +40,7 @@ function Banner() {
               Enter valid email address
             </div>
           </div>
-          <button className="btn btn-secondary">Secondary</button>
+          <button className="btn btn-secondary">Get Started</button>
         </div>
         <div className="w-full md:w-1/2 order-1">
             <img src={bannerImage} alt="Banner" className="rounded-lg  lg:ml-20 md:w-90 md:h-90 lg:w-120 lg:h-120"/>
