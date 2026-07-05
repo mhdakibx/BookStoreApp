@@ -1,4 +1,4 @@
-import Home from "./components/home/home";
+import Home from "./components/home/Home";
 import { Routes } from "react-router-dom";
 import { Route } from "react-router-dom";
 import Courses from "./courses/Courses";
